@@ -1,40 +1,43 @@
 {
-	"list":[
-{
-"id":1,
-"name":"DREVA SPORTS ONE CALCIO",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
-},
-{
-"id":2,
-"name":"DREVA SPORTS TW0 CALCIO",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
-},
-{
-"id":3,
-"name":"DREVA SPORTS THREE CALCIO",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
-},
-  {
-"id":4,
-"name":"DREVA SPORTS FOUR CALCIO",
-"id":3,
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
-},
-  {
-"id":5,
-"name":"DREVA SPORTS FIVE CALCIO",
-"id":3,
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
-},
-{
+	"files": [
 
-"id":6,
-"name":"DREVA SPORTS SIX CALCIO",
-"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjg61ZUjURAmc6L0zEQWoDtrIv69BW7jyZQ&usqp=CAU"
+
+               {
+			
+			"footballname": "FOOTIE SPORT",
+			"footballimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlDJQur2RifFgDF3Mu647thOVoB-vJKDZwA&usqp=CAU",
+			"footballread": "FOOTIE SPORT"
+		},
+		
+
+               {
+			
+			"footballname": "FOOTIE SPORT",
+			"footballimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlDJQur2RifFgDF3Mu647thOVoB-vJKDZwA&usqp=CAU",
+			"footballread": "FOOTIE SPORT"
+		},
+		
+               {
+			
+			"footballname": "FOOTIE SPORT",
+			"footballimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlDJQur2RifFgDF3Mu647thOVoB-vJKDZwA&usqp=CAU",
+			"footballread": "FOOTIE SPORT"
+		},
+		
+              {
+			
+			"footballname": "FOOTIE SPORT",
+			"footballimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlDJQur2RifFgDF3Mu647thOVoB-vJKDZwA&usqp=CAU",
+			"footballread": "FOOTIE SPORT"
+		},
+		
+               {
+			
+			"footballname": "FOOTIE SPORT",
+			"footballimage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzlDJQur2RifFgDF3Mu647thOVoB-vJKDZwA&usqp=CAU",
+			"footballread": "FOOTIE SPORT"
+		}
+		
+
+	]
 }
-]
-}
-
-
-	
