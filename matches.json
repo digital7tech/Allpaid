@@ -1,125 +1,136 @@
-
-
 {
 
 	"hits": [
 
-
-
-
-
 {
 
-			"user": "Man City 3-2 Aston Villa",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227110/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
+
+			"user": "Cagliari vs Perugia SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		{
+
+
+			"user": "Udinese vs FeralpiSalò SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		
+		{
+
+
+			"user": "Eintracht Frankfurt vs Bayern München HD1",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Eintracht Frankfurt vs Bayern München HD2",
+			"pageUrl": "http://myott.top/stream/1VGPHYLZTH/235.m3u8",
+			"type": "Germany - Bundesliga ⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/1200px-Bundesliga_logo_%282017%29.svg.png"
+		},
+		{
+
+
+			"user": "Crystal Palace vs Arsenal SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+		},
+		{
 
 
-{
-
-			"user": "Liverpool 3-1 Wolves",
-			"pageUrl": "https://ccx123.koralast.com/UpFiles/2022/5/22/34/227081/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
+			"user": "Crystal Palace vs Arsenal SD(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+		},
+		{
 
 
-
-{
-
-			"user": "Norwich 0-5 Tottenham",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227141/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
+			"user": "Crystal Palace vs Arsenal HD1(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+		},
+		{
 
 
-
-
-
-{
-
-			"user": "Crystal Palace 1-0 Man U",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227082/720p.m3u8https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227082/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
+			"user": "Crystal Palace vs Arsenal HD2(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+		},
+		{
 
 
-
-
-{
-
-			"user": "Chelsea 2-1 Watford",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227138/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
+			"user": "Crystal Palace vs Arsenal HD3(English)",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "ENGLISH PREMIER LEAGUE ⚽️ ",
 			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+		},
+		{
 
 
-
-{
-
-			"user": "Arsenal 5-1 Everton",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227088/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+			"user": "Lyon vs Ajaccio SD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+		{
 
 
+			"user": "Lyon vs Ajaccio HD",
+			"pageUrl": "https://16live00.akamaized.net/BTSPORTS_ESPN/index.m3u8",
+			"type": "FRENCH LIGUE 1⚽️ ",
+			"webFormatUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ligue1.svg/1200px-Ligue1.svg.png"
+		},
+
+		{
 
 
-{
-
-			"user": "Brentford 1-2 Leeds",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227147/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-
+			"user": "Lecce vs Cittadella SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		{
 
 
-
-{
-
-			"user": "Brighton 3-1 West Ham",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227146/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
+			"user": "Sampdoria vs Reggina SD",
+			"pageUrl": "http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8",
+			"type": "Italy - Coppa Italia ⚽️ ",
+			"webFormatUrl": "https://www.thesportsdb.com/images/media/league/badge/konhxs1549460516.png"
+		},
+		{
 
 
+			"user": "Benfica vs Arouca SD",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		{
 
 
-{
-
-			"user": "Burnley 1-2 Newcastlae",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227149/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-
-
-
-
-{
-
-			"user": "Leicester 4-1 Southampton",
-			"pageUrl": "https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227132/720p.m3u8https://bto2cdn16611.90minkora.com/UpFiles/2022/5/22/42/227132/720p.m3u8",
-			"type": "PREMIER LEAGUE HIGHLIGHTS ⚽️ ",
-			"webFormatUrl": "https://logoeps.com/wp-content/uploads/2012/12/premier-league-logo-vector.png"
-		},	
-
-
-
+			"user": "Benfica vs Arouca HD",
+			"pageUrl": "http://213.13.23.132/shls/LIVE%24SPORTTV1.CVL/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
+			"type": "PORTUGUESE PRIMEIRA LIGA ⚽️ ",
+			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
+		},
+		
 
 
 {
 
 			"user": "Football",
-			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
 		}
