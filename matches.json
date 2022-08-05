@@ -125,11 +125,16 @@
 			"webFormatUrl": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/14.png"
 		},
 		
-
-
 {
 
-			"user": "Football",
+			"user": "PTV SPORTS",
+			"pageUrl": "http://191.96.100.144:8030/ptv/tracks-v1a1/mono.m3u8 ",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+{
+
+			"user": "PTV SPORTS",
 			"pageUrl": "http://watch.emasti.pk/stream/ptvsports/tracks-v1a1/mono.m3u8",
 			"type": "FOOTBALL ⚽️ ",
 			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
